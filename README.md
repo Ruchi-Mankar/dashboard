@@ -1,9 +1,7 @@
-# :earth_americas: GDP dashboard template
-
-A simple Streamlit app showing the GDP of different countries in the world.
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
-
+# 🍱: VJTI Canteen Dashboard  
+by:
+Ruchi Mankar and Nikhita Gharpure  
+https://turbo-orbit-wpprw9q7vvwfv545-8501.app.github.dev/  
 ### How to run it on your own machine
 
 1. Install the requirements
