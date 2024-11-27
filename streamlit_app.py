@@ -322,7 +322,6 @@ plt.xticks(rotation=45, ha='right')
 
 # Add titles and labels
 plt.title(f"Total Quantity of {selected_ingredient} Required Over Time", fontsize=16)
-git status
 plt.ylabel("Total Quantity", fontsize=12)
 
 # Optional: Add gridlines for better readability
