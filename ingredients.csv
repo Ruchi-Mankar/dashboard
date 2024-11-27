@@ -1,0 +1,77 @@
+meal_id,ingredient,quantity_needed,unit
+0,bottle of water,1,bottle
+1,Tea leaves,10,grams
+1,Milk,200,milliliters
+1,Sugar,5,grams
+2,Coffee powder,10,grams
+2,Milk,200,milliliters
+2,Sugar,5,grams
+3,cold drink bottle,1,bottle
+4,Rice flour,100,grams
+4,Urad dal flour,50,grams
+4,Water,100,milliliters
+4,Salt,2,grams
+5,Potatoes,100,grams
+5,Pav,1,piece
+5,Spices,5,grams
+5,Green chutney,20,grams
+5,Fried gram flour (besan),10,grams
+6,Potatoes,150,grams
+6,Onion,30,grams
+6,Spices,5,grams
+6,Flour,50,grams
+6,Oil,20,milliliters
+7,Potatoes,100,grams
+7,Ragda (white peas),50,grams
+7,Tamarind chutney,20,grams
+7,Spices,5,grams
+7,Coriander leaves,5,grams
+8,Sprouted beans,100,grams
+8,Onion,20,grams
+8,Tomato,20,grams
+8,Spices,5,grams
+8,Pav,1,piece
+9,Poha (flattened rice),100,grams
+9,Onion,30,grams
+9,Peas,20,grams
+9,Potato,50,grams
+9,Spices,5,grams
+10,Semolina (Rava),100,grams
+10,Onion,20,grams
+10,Mustard seeds,5,grams
+10,"Vegetables (peas, carrots)",30,grams
+10,Spices,5,grams
+11,Noodles,100,grams
+11,Cabbage,30,grams
+11,Capsicum,20,grams
+11,Soy sauce,10,grams
+11,Oil,10,milliliters
+12,Rice,100,grams
+12,"Vegetables (peas, carrots, beans)",50,grams
+12,Soy sauce,10,grams
+12,Oil,10,milliliters
+13,Potatoes,100,grams
+13,Mixed vegetables,100,grams
+13,Pav,1,piece
+13,Spices,5,grams
+14,Mixed vegetables,100,grams
+14,Spices,5,grams
+15,Whole wheat flour,100,grams
+15,Water,50,milliliters
+16,Bread,2,slices
+16,Potatoes,100,grams
+16,Chickpea flour,50,grams
+16,Oil,10,milliliters
+17,Puri,1,piece
+17,Sev,20,grams
+17,Potato,50,grams
+18,Puri,1,piece
+18,Sev,20,grams
+18,Coriander leaves,5,grams
+18,Tamarind chutney,10,grams
+19,Noodles,100,grams
+19,Cabbage,30,grams
+19,Capsicum,20,grams
+19,Soy sauce,10,grams
+19,Chili sauce,10,grams
+20,sweets (piece),1,piece
